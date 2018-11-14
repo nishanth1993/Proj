@@ -1,3 +1,3 @@
 #README
 
-_This is a demo git repo_
+_This is a feature demo git repo_
